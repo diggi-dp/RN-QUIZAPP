@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "quizzi",
+    "slug": "rn-quizapp",
+    "icon": "./assets/app_logo.png",
+    "splash": {
+      "image": "./assets/quizzoralogo.png",
+      "resizemode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "572981fc-2179-4b41-9d11-bc6f6e0540da"
+      }
+    },
+    "android": {
+      "package": "com.diggi_dp.rnquizapp"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/572981fc-2179-4b41-9d11-bc6f6e0540da"
+    },
+    "ios": {}
+  }
+}
